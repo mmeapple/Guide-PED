@@ -1,0 +1,48 @@
+# Structure and schedule
+
+## Weekly schedule
+
+This is how the general structure of a week looks like:
+
+| Activity | Deadline | Description |
+| -----------| -----------| -----------|
+Guide topic covered | Before each session | This is your introduction to the topic |
+Readings topic covered | Before each session | We will cover about two topics per week |
+Seminar questions |  Thursday 7 pm | Answer the seminar questions of **every** topic covered during the week |
+Seminar feedback | Friday 11:59 pm | You need to provide feedback to at least 2 of your peers [here](https://app.eduflow.com/join/C38K2B) |
+
+## Tentative Calendar
+
+Here is a **tentative** calendar of the topics that we will cover during the course:
+
+
+| Week | Dates | Topic |
+| ------| ---------| -------------------|
+| 1 | Feb 1-6 | Introduction
+| 1 | Feb 1-6 | What is development? |
+| 2 | Feb 7-13 | **Choose your team and topic for the final project** |
+| 2 | Feb 7-13 | Development Theories | 
+| 3 | Feb 14-20 | Poverty and Poverty Traps | 
+| 3 | Feb 14-20  | Geography | 
+| 4 | Feb 21- 27 | History and development: Pre-colonial Africa and trade of enslaved persons | 
+| 4 | Feb 21- 27 | History and development: The Legacies of Colonialism | 
+| 5 | Feb 28- Mar. 6 | Development policies after Independence | 
+| 5 | Feb 28- Mar. 6 | Structural Adjustment Period | 
+| 6 | Mar 7-13 | Conflict and development | 
+| 6 | Mar 7-13 | Politics and development | 
+| 7 | Mar 14-20 | The role of institutions | 
+| 7 | Mar 14-20 | *Informal check-up final project: Book an appointment with me* |
+| 7 | Mar 14-20 | **Assessment 1: Thursday 3 pm- Friday 5 pm** |
+| 8 | Mar 21-27 | **Spring Break** |
+| 9 | Mar 28-Apr. 6 | Structuring the economy: Agriculture | 
+| 9 | Mar 28-Apr. 6 | Structuring the economy: Industrial policy | 
+| 10 | Apr. 7-13 | International trade | 
+| 10 | Apr. 7-13 | Investment and financial development |
+| 11 | Apr. 14-20 | Foreign aid |
+| 12 | Apr. 21-27 | Environmental Degradation and Development |
+| 13 | Apr. 28- May 3 | The rural-urban divide and migration |
+| 14 | May 4-10 | Tentative: Ethnicity, culture and development 
+| 15 | May 11-17 | **Assessment 2: Tuesday 3 pm- Wednesday 5 pm** ||
+| 15 | May 11-17 | **Analysis paper due by Friday, May 13- 11:59 pm** |
+
+
